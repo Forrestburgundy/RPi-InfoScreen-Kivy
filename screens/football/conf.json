@@ -1,7 +1,7 @@
 {
     "screen": "FootballScreen",
     "kv": "football.kv",
-    "enabled": false,
+    "enabled": true,
     "dependencies": ["requests", "BeautifulSoup"],
     "params": {
         "teams": ["Chelsea"],
